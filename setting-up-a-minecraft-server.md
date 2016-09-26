@@ -1,4 +1,4 @@
-![Minecraft Logo](https://minecraft.net/images/logo.png "Setting up a minecraft server")
+
 
 # Setting up a Minecraft server
 
